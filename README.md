@@ -1,11 +1,11 @@
-👋 Hi, I’m @manaskush
+👋 Hi, I’m @Gaurav
 
-👀 I’m interested in Web and Android Development,WEB 3 and Blockchain
+👀 I’m interested in Web Development
 
-🌱 I’m currently learning React and Blockchain development
+🌱 I’m currently learning React and NEXT
 
 💞️ I’m looking to collaborate on different MERN Stack and Web Application projects
 
-📫 How to reach me -- Mail at manaskush311@gmail.com
+📫 How to reach me -- Mail at gauravjdh2021@gmail.com
 
 ⚡ Fun fact: I can make others do the job for me
